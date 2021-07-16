@@ -1,0 +1,1 @@
+alert("Hey! Today is our first Git class.");
